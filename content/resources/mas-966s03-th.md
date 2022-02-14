@@ -9,7 +9,9 @@ image_metadata:
     people wearing certain receptive glasses. (Image by Sandy Pentland.)
   credit: ''
   image-alt: A digital display on columns.
+learning_resource_types: []
 resourcetype: Image
 title: Hall of Heroes (thumbnail)
+type: OCWImage
 uid: 5109d7ad-f421-4cc6-8231-790ea95a799f
 ---
