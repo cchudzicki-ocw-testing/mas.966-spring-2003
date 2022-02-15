@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Digital Anthropology '
-type: OCWFile
 uid: 028f3bd0-0dd7-bf4d-bb25-b43cf349143c
 ---

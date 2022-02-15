@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Reality Mining
-type: OCWFile
 uid: 48287a72-9e0d-b4b0-dbb4-5d7ff20fceee
 ---

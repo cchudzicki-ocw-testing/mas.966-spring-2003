@@ -12,6 +12,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: Hall of Heroes (thumbnail)
-type: OCWImage
 uid: 5109d7ad-f421-4cc6-8231-790ea95a799f
 ---

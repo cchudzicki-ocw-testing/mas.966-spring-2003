@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Session One: Intro & Overview'
-type: OCWFile
 uid: f3aae3c5-8d6d-0e8c-dee5-b540709674fe
 ---

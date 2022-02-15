@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: experiment.pdf
-type: OCWFile
 uid: 419dfde3-2a13-4d58-bbbc-9729aa116ed1
 ---
