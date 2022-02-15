@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: A digital display on columns.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Hall of Heroes (thumbnail)
 uid: 5109d7ad-f421-4cc6-8231-790ea95a799f
