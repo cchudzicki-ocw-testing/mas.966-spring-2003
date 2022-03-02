@@ -27,7 +27,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Experiment Proposals ({{< resource_link 419dfde3-2a13-4d58-bbbc-9729aa116ed1 "PDF" >}})
+Experiment Proposals ({{% resource_link 419dfde3-2a13-4d58-bbbc-9729aa116ed1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ Experiment Proposals ({{< resource_link 419dfde3-2a13-4d58-bbbc-9729aa116ed1 "PD
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Project Proposals ({{< resource_link 028f3bd0-0dd7-bf4d-bb25-b43cf349143c "PDF" >}})
+Project Proposals ({{% resource_link 028f3bd0-0dd7-bf4d-bb25-b43cf349143c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
