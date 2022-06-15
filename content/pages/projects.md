@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes an introduction to the project in the class, and
+  some proposals for class projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

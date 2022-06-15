@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, expected student deliverables, credits, target student population,
+  interwoven themes, sections, and potential speakers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
