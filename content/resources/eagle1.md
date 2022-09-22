@@ -6,6 +6,7 @@ file: /courses/mas-966-digital-anthropology-spring-2003/48287a729e0db4b0dbb45d7f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
